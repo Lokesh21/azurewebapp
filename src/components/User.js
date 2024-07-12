@@ -22,7 +22,7 @@ export default function User() {
       <table className="user-table">
         <thead>
           <tr>
-            <th>User ID</th>
+            <th>User Id</th>
             <th>Name</th>
             <th>Address</th>
           </tr>
